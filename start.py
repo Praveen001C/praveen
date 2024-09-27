@@ -4,3 +4,5 @@ if number%2==0:
 else:
     print("not even")
 a="praveen"
+def palindrome(word)
+    return word == word[::-1]
